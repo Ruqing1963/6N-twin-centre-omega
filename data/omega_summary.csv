@@ -1,0 +1,3 @@
+shell,ord_mean,twin_mean,mean_shift,ord_var,twin_var,twin_skew,twin_exkurt
+S9,2.3599,2.5819,0.2220,0.8530,0.9423,0.246,-0.326
+S10,2.4757,2.7027,0.2270,0.9424,1.0394,0.258,-0.287
