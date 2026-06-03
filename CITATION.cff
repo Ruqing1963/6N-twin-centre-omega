@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The factor statistics of twin centres on the 6N skeleton: each prime divides with probability 1/(q-2), not 1/q (Part XII)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-03"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-twin-centre-omega"
+keywords:
+  - twin primes
+  - Erdos-Kac theorem
+  - omega function
+  - prime factor distribution
+  - conditional density
+  - experimental mathematics
+references:
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "6N bridge-constant arithmetic (Part VIII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20519998
+  - type: software
+    title: "6N tail-constant first-principles origin (Part XI)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20526835
